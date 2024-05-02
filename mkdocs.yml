@@ -44,7 +44,7 @@ theme:
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
-  logo: 'assets/OlP.jpg'
+  logo: 'assets/prairiedog.jpg'
   favicon: 'assets/favicon.ico'
   # setting features for the navigation tab
   features:
